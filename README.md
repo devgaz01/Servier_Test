@@ -6,6 +6,6 @@
 
 Vous avez à votre disposition les 4 fichiers de données suivants :
 
-drugs.csv : contient les noms de drugs (des médicaments) avec un id (atccode) et un nom (drug) pubmed.csv : contient des titres d’articles PubMed (title) associés à un journal (journal) à une date donnée (date) ainsi qu’un id (id)
-pubmed.json : même structure que pubmed.csv mais en format JSON
+drugs.csv : contient les noms de drugs (des médicaments) avec un id (atccode) et un nom (drug) pubmed.csv : contient des titres d’articles PubMed (title) associés à un journal (journal) à une date donnée (date) ainsi qu’un id (id).
+pubmed.json : même structure que pubmed.csv mais en format JSON.
 clinical_trials.csv : contient des publications scientifiques avec un titre (scientific_title), un id (id), un journal (journal) et une date (date).
