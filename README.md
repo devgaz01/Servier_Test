@@ -24,6 +24,8 @@ Votre data pipeline doit produire en sortie un unique fichier JSON qui représen
 
 **CODE**
 
+Les requêtes sont dans le fichier txt, pour les tester vous avez besoin de la base de données, le fichier ipynb a une fonction et un objet, les deux permettent des intégrations, vous êtes libre de choisir l'option que vous voulez.
+
 **Bibliothèque :**
 
 -Pandas : Pandas est principalement utilisé pour l'analyse de données. Pandas permet d'importer des données à partir de différents formats de fichiers tels que les valeurs séparées par des virgules, JSON, SQL, Microsoft Excel. Pandas permet d'effectuer diverses opérations de manipulation des données, telles que la fusion, le remodelage, la sélection, ainsi que des fonctions de nettoyage et de traitement des données.
