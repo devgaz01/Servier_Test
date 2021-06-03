@@ -24,8 +24,8 @@ Votre data pipeline doit produire en sortie un unique fichier JSON qui représen
 
 **CODE**
 
-**Biblioteque :**
+**Bibliothèque :**
 
--Pandas :
+-Pandas : Pandas est principalement utilisé pour l'analyse de données. Pandas permet d'importer des données à partir de différents formats de fichiers tels que les valeurs séparées par des virgules, JSON, SQL, Microsoft Excel. Pandas permet d'effectuer diverses opérations de manipulation des données, telles que la fusion, le remodelage, la sélection, ainsi que des fonctions de nettoyage et de traitement des données.
 
--Numpy : 
+-Numpy : NumPy est une bibliothèque Python qui fournit une structure de données simple mais puissante : le tableau n-dimensionnel. Il s'agit de la base sur laquelle repose la quasi-totalité de la puissance de la boîte à outils de science des données de Python, et l'apprentissage de NumPy est la première étape du voyage de tout scientifique des données Python.
