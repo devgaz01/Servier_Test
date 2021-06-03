@@ -12,7 +12,7 @@ pubmed.json : même structure que pubmed.csv mais en format JSON.
 
 clinical_trials.csv : contient des publications scientifiques avec un titre (scientific_title), un id (id), un journal (journal) et une date (date).
 
-**3. Data pipeline**
+**2. Data pipeline**
 
 Votre data pipeline doit produire en sortie un unique fichier JSON qui représente un graphe de liaison entre les différents médicaments et leurs mentions respectives dans les différentes publications PubMed, les différentes publications scientifiques et enfin les journaux avec la date associée à chacune de ces mentions. La représentation ci-dessous permet de visualiser ce qui est attendu. Il peut y avoir plusieurs manières de modéliser cet output et vous pouvez justifier votre vision :
 
@@ -21,3 +21,8 @@ Votre data pipeline doit produire en sortie un unique fichier JSON qui représen
 - Un drug est considéré comme mentionné dans un article PubMed ou un essai clinique s’il est mentionné dans le titre de la publication.
 - Un drug est considéré comme mentionné par un journal s’il est mentionné dans une publication émise par ce journal.
 ![image](https://user-images.githubusercontent.com/74152853/120648815-59696400-c47c-11eb-8c14-7533e45a98c0.png)
+
+**CODE**
+**Biblioteque :**
+-Pandas :
+-Numpy : 
