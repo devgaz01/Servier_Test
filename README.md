@@ -32,4 +32,8 @@ Lorsque la fonction est exécutée, un fichier json comme celui-ci est généré
 
 -Pandas : Pandas est principalement utilisé pour l'analyse de données. Pandas permet d'importer des données à partir de différents formats de fichiers tels que les valeurs séparées par des virgules, JSON, SQL, Microsoft Excel. Pandas permet d'effectuer diverses opérations de manipulation des données, telles que la fusion, le remodelage, la sélection, ainsi que des fonctions de nettoyage et de traitement des données.
 
+J'utilise la bibliothèque pandas qui est une ressource scientifique pour travailler avec des données de différentes tailles, car le code python est développé en considérant uniquement les noms de fichiers .csv sans se préoccuper de la quantité de données.
+
+la solution est bonne pour un grand nombre de données, mais il est nécessaire de la tester et de voir le comportement. Il faudrait peut-être ajouter un processus de filtrage supplémentaire ou une fonction de filtrage spécifique pour gérer les données conflictuelles.
+
 -Numpy : NumPy est une bibliothèque Python qui fournit une structure de données simple mais puissante : le tableau n-dimensionnel. Il s'agit de la base sur laquelle repose la quasi-totalité de la puissance de la boîte à outils de science des données de Python, et l'apprentissage de NumPy est la première étape du voyage de tout scientifique des données Python.
