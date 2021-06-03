@@ -23,6 +23,9 @@ Votre data pipeline doit produire en sortie un unique fichier JSON qui représen
 ![image](https://user-images.githubusercontent.com/74152853/120648815-59696400-c47c-11eb-8c14-7533e45a98c0.png)
 
 **CODE**
+
 **Biblioteque :**
+
 -Pandas :
+
 -Numpy : 
