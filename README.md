@@ -19,4 +19,4 @@ Votre data pipeline doit produire en sortie un unique fichier JSON qui représen
 
 - Un drug est considéré comme mentionné dans un article PubMed ou un essai clinique s’il est mentionné dans le titre de la publication.
 - Un drug est considéré comme mentionné par un journal s’il est mentionné dans une publication émise par ce journal.
-Capture d’écran 2021-06-03 à 14.59.30![image](https://user-images.githubusercontent.com/74152853/120648815-59696400-c47c-11eb-8c14-7533e45a98c0.png)
+![image](https://user-images.githubusercontent.com/74152853/120648815-59696400-c47c-11eb-8c14-7533e45a98c0.png)
