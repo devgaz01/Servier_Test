@@ -24,7 +24,9 @@ Votre data pipeline doit produire en sortie un unique fichier JSON qui représen
 
 **CODE**
 
-Les requêtes sont dans le fichier txt, pour les tester vous avez besoin de la base de données, le fichier ipynb a une fonction et un objet, les deux permettent des intégrations, vous êtes libre de choisir l'option que vous voulez.
+Les requêtes sont dans le fichier txt "querie.txt", pour les tester vous avez besoin de la base de données, le fichier ipynb a une fonction et un objet, les deux permettent des intégrations, vous êtes libre de choisir l'option que vous voulez.
+
+Lorsque la fonction est exécutée, un fichier json comme celui-ci est généré "OutputFile.json"
 
 **Bibliothèque :**
 
