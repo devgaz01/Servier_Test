@@ -1,0 +1,24 @@
+
+To get the "premiere partie du test":
+
+SELECT date, sum(prod_qty*prod_price) as ventes from transactions
+where date >='2020-01-01' and date < '2020-12-31';
+GROUP BY date
+
+To get the "seconde parte du test":
+
+
+SELECT tableMeuble.client_id, tableMeuble.[meuble] as ventes_meuble, tableDeco.[deco] as ventes_deco
+            FROM
+                (SELECT client_id, sum(prod_qty*prod_price) as meuble FROM (transactions INNER JOIN product_nomenclature
+                ON transactions.prod_id=product_nomenclature.product_id)
+                WHERE product_type = 'MEUBLE' AND
+			date >='2020-01-01' and date < '2020-12-31'
+                GROUP BY client_id ) tableMeuble
+            LEFT JOIN
+                (SELECT client_id, sum(prod_qty*prod_price) as deco FROM (transactions INNER JOIN product_nomenclature
+                ON transactions.prod_id=product_nomenclature.product_id)
+                WHERE product_type = 'DECO'or product_type = 'Deco' AND
+					date >='2020-01-01' and date < '2020-12-31';
+                GROUP BY client_id )  tableDeco
+            ON tableMeuble.client_id=tableDeco.client_id;

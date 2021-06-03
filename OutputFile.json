@@ -1,0 +1,146 @@
+{
+    "A04AD": [
+        {
+            "pubmed": {
+                "id": 1,
+                "date": "01/01/2019"
+            }
+        },
+        {
+            "pubmed": {
+                "id": 2,
+                "date": "01/01/2019"
+            }
+        },
+        {
+            "pubmed": {
+                "id": 3,
+                "date": "02/01/2019"
+            }
+        },
+        {
+            "ClinicalTrial": {
+                "id": "NCT01967433",
+                "date": "1 January 2020"
+            }
+        },
+        {
+            "ClinicalTrial": {
+                "id": "NCT04189588",
+                "date": "1 January 2020"
+            }
+        },
+        {
+            "ClinicalTrial": {
+                "id": "NCT04237091",
+                "date": "1 January 2020"
+            }
+        },
+        {
+            "journal": {
+                "name": "Journal of emergency nursing",
+                "date": "01/01/2019"
+            }
+        },
+        {
+            "journal": {
+                "name": "The Journal of pediatrics",
+                "date": "02/01/2019"
+            }
+        }
+    ],
+    "S03AA": [
+        {
+            "pubmed": {
+                "id": 4,
+                "date": "01/01/2020"
+            }
+        },
+        {
+            "pubmed": {
+                "id": 5,
+                "date": "02/01/2020"
+            }
+        },
+        {
+            "pubmed": {
+                "id": 6,
+                "date": "2020-01-01"
+            }
+        },
+        {
+            "journal": {
+                "name": "Journal of food protection",
+                "date": "01/01/2020"
+            }
+        },
+        {
+            "journal": {
+                "name": "American journal of veterinary research",
+                "date": "02/01/2020"
+            }
+        },
+        {
+            "journal": {
+                "name": "Psychopharmacology",
+                "date": "2020-01-01"
+            }
+        }
+    ],
+    "V03AB": [
+        {
+            "pubmed": {
+                "id": 6,
+                "date": "2020-01-01"
+            }
+        },
+        {
+            "journal": {
+                "name": "Psychopharmacology",
+                "date": "2020-01-01"
+            }
+        }
+    ],
+    "A03BA": [],
+    "A01AD": [
+        {
+            "pubmed": {
+                "id": 7,
+                "date": "01/02/2020"
+            }
+        },
+        {
+            "pubmed": {
+                "id": 8,
+                "date": "01/03/2020"
+            }
+        },
+        {
+            "ClinicalTrial": {
+                "id": "NCT04188184",
+                "date": "27 April 2020"
+            }
+        },
+        {
+            "journal": {
+                "name": "The journal of allergy and clinical immunology. In practice",
+                "date": "01/02/2020"
+            }
+        },
+        {
+            "journal": {
+                "name": "The journal of allergy and clinical immunology. In practice",
+                "date": "01/03/2020"
+            }
+        }
+    ],
+    "6302001": [],
+    "R01AD": [
+        {
+            "ClinicalTrial": {
+                "id": "NCT04153396",
+                "date": "1 January 2020"
+            }
+        }
+    ]
+}
