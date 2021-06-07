@@ -36,4 +36,4 @@ J'utilise la bibliothèque pandas qui est une ressource scientifique pour travai
 
 la solution est bonne pour un grand nombre de données, mais il est nécessaire de la tester et de voir le comportement. Il faudrait peut-être ajouter un processus de filtrage supplémentaire ou une fonction de filtrage spécifique pour gérer les données conflictuelles.
 
--Numpy : NumPy est une bibliothèque Python qui fournit une structure de données simple mais puissante : le tableau n-dimensionnel. Il s'agit de la base sur laquelle repose la quasi-totalité de la puissance de la boîte à outils de science des données de Python, et l'apprentissage de NumPy est la première étape du voyage de tout scientifique des données Python.
+-Numpy : NumPy est une bibliothèque Python qui fournit une structure de données simple mais puissante : le tableau n-dimensionnel. Il s'agit de la base sur laquelle repose la quasi-totalité de la puissance de la boîte à outils de science des données de Python, et l'apprentissage de NumPy est la première étape du voyage de tout scientifique des données avec Python.
